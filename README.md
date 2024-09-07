@@ -134,7 +134,7 @@ To get started with any of the projects in this repository:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/JavaMastery.git
+   git clone https://github.com/PriyantNikhare/JavaMastery.git
    ```
 
 2. Navigate to the project directory:
