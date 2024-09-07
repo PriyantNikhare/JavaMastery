@@ -21,7 +21,7 @@ The OTP (One-Time Password) Generator project is designed to create a simple yet
 ## Installation
 1. **Clone the Repository**:
     ```sh
-    [git clone https://github.com/](https://github.com/PriyantNikhare/JavaMastery.git)
+    git clone https://github.com/PriyantNikhare/JavaMastery.git
     cd PriyantNikhare/JavaMastery
     ```
 
