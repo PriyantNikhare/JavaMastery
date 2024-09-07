@@ -50,7 +50,7 @@ The OTP (One-Time Password) Generator project is designed to create a simple yet
 1. **Clone the Repository**:
     ```sh
     https://github.com/PriyantNikhare/JavaMastery.git
-    cd 30DaysDevChallenge/30_days_of_java/otp-generator
+    cd PriyantNikhare/JavaMastery
     ```
 
 2. **Open the Project in VS Code**:
