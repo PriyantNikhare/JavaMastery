@@ -1,7 +1,7 @@
 # OTP Generator
 
 ## Overview
-The OTP (One-Time Password) Generator project is designed to create a simple yet effective OTP generation and validation system using Java. This project is part of the `30_days_of_java` folder in the `30DaysDevChallenge` repository. The OTP generator can be utilized in various applications to enhance security through two-factor authentication (2FA).
+The OTP (One-Time Password) Generator project is designed to create a simple yet effective OTP generation and validation system using Java. The OTP generator can be utilized in various applications to enhance security through two-factor authentication (2FA).
 
 ## Features
 - **Random OTP Generation:** Generates random OTPs of a specified length.
@@ -21,8 +21,8 @@ The OTP (One-Time Password) Generator project is designed to create a simple yet
 ## Installation
 1. **Clone the Repository**:
     ```sh
-    git clone https://github.com/nikhare_priyant/30DaysDevChallenge.git
-    cd 30DaysDevChallenge/30_days_of_java/otp-generator
+    [git clone https://github.com/](https://github.com/PriyantNikhare/JavaMastery.git)
+    cd PriyantNikhare/JavaMastery
     ```
 
 2. **Open the Project in VS Code**:
