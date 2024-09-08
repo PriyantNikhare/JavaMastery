@@ -88,7 +88,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 If you have any questions or suggestions, feel free to reach out:
 
-- GitHub: [nikharepriyant](https://github.com/nikharepriyant)
+- GitHub: [PriyantNikhare](https://github.com/PriyantNikhare)
 - Email: priyant.p.nikhare@gmail.com
 
 Thank you for checking out the Number Guessing Game! Have fun coding!
