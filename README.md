@@ -64,6 +64,25 @@ To run the game, clone the repository, compile the Java file, and execute the pr
 
 *Replace "Project_2_Number_Guessing_Game" and descriptions with details about your specific projects.*
 
+### Project 3: Brick Breaker Game
+
+The Brick Breaker Game is a classic arcade-style game where players use a paddle to bounce a ball and break bricks. The game features multiple levels with increasing difficulty, various power-ups, and a scoring system to track player progress. It is developed using Java and the Swing framework for its graphical interface.
+
+### Technologies Used
+- **Java**: The primary programming language for game logic and functionality.
+- **Swing**: Java’s built-in library for creating the graphical user interface.
+
+The project includes:
+- **Main.java**: Entry point for the game.
+- **GamePanel.java**: Manages the game display and interactions.
+- **Paddle.java**: Handles the paddle's movement and behavior.
+- **Ball.java**: Manages ball movement and collision detection.
+- **Brick.java**: Represents the bricks and their interactions with the ball.
+
+The game can be run on any system with Java Development Kit (JDK) 8 or higher.
+
+*Replace "Project_3_Brick_Breaker_Game" and descriptions with details about your specific projects.*
+
 ## Getting Started
 
 To get started with any of the projects in this repository:
