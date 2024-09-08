@@ -123,10 +123,23 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 *Replace "Project_1_OTP Generator" with the actual relative path to the project folder within your repository.*
 
-### [Project 2: Project Name]
-A brief description of the project. What does it do? What technologies does it use?
+### Project 2: Number Guessing Game
 
-*Replace "Project Name" and descriptions with details about your specific projects.*
+The Number Guessing Game is a Java-based application designed for players to guess a randomly generated number between 1 and 100. The game provides feedback after each guess, indicating whether the guess is too high, too low, or correct. It also tracks the number of attempts and offers the player an option to start a new game after guessing correctly.
+
+### Technologies Used:
+- **Java**: The programming language used to build the game.
+- **Random**: Utilized for generating a random number between 1 and 100.
+- **Scanner**: Used to capture user input.
+
+### Key Features:
+- Random number generation within a specified range.
+- Real-time feedback on guesses.
+- Attempt tracking and replayability options.
+
+To run the game, clone the repository, compile the Java file, and execute the program.
+
+*Replace "Project_2_Number_Guessing_Game" and descriptions with details about your specific projects.*
 
 ## Getting Started
 
