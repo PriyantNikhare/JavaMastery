@@ -28,98 +28,21 @@ Feel free to explore and learn from the projects, or use them as a reference for
 
 # OTP Generator
 
-## Overview
-The OTP (One-Time Password) Generator project is designed to create a simple yet effective OTP generation and validation system using Java. The OTP generator can be utilized in various applications to enhance security through two-factor authentication (2FA).
+**Overview:**
+The OTP Generator project is a Java-based system designed to create and validate One-Time Passwords (OTPs) for enhanced security, particularly in two-factor authentication (2FA) scenarios. It provides functionality to generate random OTPs with customizable settings and ensures their validity within a specified time period.
 
-## Features
-- **Random OTP Generation:** Generates random OTPs of a specified length.
-- **Configurable OTP Length:** Allows users to configure the length of the OTP (e.g., 4, 6, 8 digits).
-- **Alphanumeric Support:** Option to generate OTPs containing alphanumeric characters.
-- **Validity Period:** Sets a validity period for the OTP, after which it expires.
-- **Logging:** Basic logging to keep track of OTP generation and usage.
+**Features:**
+- **Random OTP Generation:** Creates OTPs of configurable lengths (e.g., 4, 6, 8 digits).
+- **Configurable OTP Length:** Users can set the desired length for the OTP.
+- **Alphanumeric Support:** Option to include both letters and digits in the OTP.
+- **Validity Period:** Defines an expiration time for each OTP.
+- **Logging:** Basic logging to track OTP generation and usage.
 
-## Prerequisites
-- **Java Development Kit (JDK)**: Install the JDK from [Oracle](https://www.oracle.com/java/technologies/javase-downloads.html) or [AdoptOpenJDK](https://adoptopenjdk.net/).
-- **Maven**: Install Maven from the [Apache Maven website](https://maven.apache.org/download.cgi).
-- **Visual Studio Code (VS Code)**: Download and install VS Code from the [official website](https://code.visualstudio.com/).
-- **VS Code Extensions**:
-  - [Java Extension Pack](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack)
-  - [Test Runner for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-test)
-
-## Installation
-1. **Clone the Repository**:
-    ```sh
-    https://github.com/PriyantNikhare/JavaMastery.git
-    cd PriyantNikhare/JavaMastery
-    ```
-
-2. **Open the Project in VS Code**:
-    - Open VS Code.
-    - Use the `File` > `Open Folder` menu to open the `otp-generator` directory.
-
-3. **Install Necessary Extensions**:
-    - Open the Extensions view (`Ctrl+Shift+X`).
-    - Search for and install the **Java Extension Pack**.
-    - Search for and install **Test Runner for Java**.
-
-4. **Build the Project**:
-    - Open the integrated terminal in VS Code (`Ctrl+``).
-    - Run the following command:
-        ```sh
-        mvn clean install
-        ```
-
-## Usage
-1. **Run the Application**:
-    - Open `OtpGenerator.java` in VS Code.
-    - Right-click anywhere in the editor and select `Run Java`.
-
-2. **Expected Output**:
-    ```
-    Generated Numeric OTP: 839502
-    Generated Alphanumeric OTP: j8K3ZmQ2
-    Is OTP valid? true
-    ```
-
-3. **Run Unit Tests**:
-    - You can run tests from the Test Explorer view in VS Code.
-    - Alternatively, in the terminal, run:
-        ```sh
-        mvn test
-        ```
-
-## Project Structure
-otp-generator/
-|-- src/
-|   |-- main/
-|   |   |-- java/
-|   |   |   |-- com/
-|   |   |   |   |-- otp/
-|   |   |   |   |   |-- OtpGenerator.java
-|   |   |   |   |   |-- OtpValidator.java
-|   |-- test/
-|       |-- java/
-|           |-- com/
-|               |-- otp/
-|                   |-- OtpGeneratorTest.java
-|                   |-- OtpValidatorTest.java
-|-- pom.xml
-|-- README.md
-
-## Contributing
-1. **Fork the repository**.
-2. **Create a new branch** (`git checkout -b feature/your-feature`).
-3. **Commit your changes** (`git commit -m 'Add some feature'`).
-4. **Push to the branch** (`git push origin feature/your-feature`).
-5. **Open a pull request**.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-- [Java Extension Pack](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack)
-- [JUnit 5](https://junit.org/junit5/)
-- [Apache Maven](https://maven.apache.org/)
+**Technologies Used:**
+- **Java:** Core programming language for OTP generation and validation.
+- **Maven:** Build automation and dependency management.
+- **JUnit 5:** Testing framework for unit tests.
+- **Visual Studio Code:** Integrated development environment (IDE) for coding, with Java Extension Pack and Test Runner for Java.
 
 *Replace "Project_1_OTP Generator" with the actual relative path to the project folder within your repository.*
 
