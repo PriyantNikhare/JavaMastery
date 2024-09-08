@@ -44,8 +44,6 @@ The OTP Generator project is a Java-based system designed to create and validate
 - **JUnit 5:** Testing framework for unit tests.
 - **Visual Studio Code:** Integrated development environment (IDE) for coding, with Java Extension Pack and Test Runner for Java.
 
-*Replace "Project_1_OTP Generator" with the actual relative path to the project folder within your repository.*
-
 ### Project 2: Number Guessing Game
 
 The Number Guessing Game is a Java-based application designed for players to guess a randomly generated number between 1 and 100. The game provides feedback after each guess, indicating whether the guess is too high, too low, or correct. It also tracks the number of attempts and offers the player an option to start a new game after guessing correctly.
@@ -61,8 +59,6 @@ The Number Guessing Game is a Java-based application designed for players to gue
 - Attempt tracking and replayability options.
 
 To run the game, clone the repository, compile the Java file, and execute the program.
-
-*Replace "Project_2_Number_Guessing_Game" and descriptions with details about your specific projects.*
 
 ### Project 3: Brick Breaker Game
 
@@ -80,8 +76,6 @@ The project includes:
 - **Brick.java**: Represents the bricks and their interactions with the ball.
 
 The game can be run on any system with Java Development Kit (JDK) 8 or higher.
-
-*Replace "Project_3_Brick_Breaker_Game" and descriptions with details about your specific projects.*
 
 ## Getting Started
 
