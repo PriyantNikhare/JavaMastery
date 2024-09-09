@@ -24,7 +24,7 @@ Feel free to explore and learn from the projects, or use them as a reference for
 
 ## Projects
 
-### Project 1: OTP Generator (./Project_1_OTP Generator)
+### Project 1: OTP Generator
 
 # OTP Generator
 
@@ -97,6 +97,29 @@ The **ATM Simulation System** is a console-based Java application that simulates
 - **Development Kit**: Java Development Kit (JDK) 8 or higher
 - **Development Environment**: Text editors or IDEs like IntelliJ IDEA, Eclipse, or VS Code
 - **Version Control**: Git for cloning and managing the project
+
+### Project 5: Fee Report System
+
+### Project Introduction:
+
+The **Fee Report System** is a console-based Java application designed to manage and generate fee reports for educational institutions. It allows administrators to manage student information, define fee structures, track payments, and generate detailed reports. The system ensures smooth fee management by providing tools for role-based access control, student data management, and automated notifications.
+
+### Features:
+
+- **Student Information Management**: Add, update, and delete student details, including personal and academic information.
+- **Fee Structure**: Define multiple fee categories and set fee structures based on courses and programs.
+- **Fee Payment Tracking**: Record, track, and manage fee payments, including due and overdue payments, and generate fee receipts.
+- **Report Generation**: Create detailed individual and institutional fee reports, exportable in formats like PDF and Excel.
+- **User Roles and Access Control**: Assign roles such as Admin, Accountant, and Student with different access permissions.
+- **Notifications**: Send reminders for upcoming payments and overdue fee notifications to students and parents.
+
+### Technology Used:
+
+- **Programming Language**: Java
+- **Development Kit**: Java Development Kit (JDK) 8 or higher
+- **Development Environment**: IDEs like IntelliJ IDEA, Eclipse, or a text editor
+- **Version Control**: Git for project management and version control
+- **Export Formats**: PDF and Excel for report generation
 
 ## Getting Started
 
