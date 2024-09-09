@@ -87,4 +87,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any questions or suggestions, please contact Priyant Prashant Nikhare(mailto:your-priyant.p.nikhare@gmail.com).
+For any questions or suggestions, please contact Priyant Prashant Nikhare (mailto:your-priyant.p.nikhare@gmail.com).
