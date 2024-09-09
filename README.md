@@ -26,8 +26,6 @@ Feel free to explore and learn from the projects, or use them as a reference for
 
 ### Project 1: OTP Generator
 
-# OTP Generator
-
 **Overview:**
 The OTP Generator project is a Java-based system designed to create and validate One-Time Passwords (OTPs) for enhanced security, particularly in two-factor authentication (2FA) scenarios. It provides functionality to generate random OTPs with customizable settings and ensures their validity within a specified time period.
 
