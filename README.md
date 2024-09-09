@@ -77,6 +77,27 @@ The project includes:
 
 The game can be run on any system with Java Development Kit (JDK) 8 or higher.
 
+### Project 4: ATM Simulation System
+
+### Project Introduction:
+
+The **ATM Simulation System** is a console-based Java application that simulates basic functionalities of an ATM machine. Designed for educational purposes, this project allows users to interact with a simulated ATM to perform common banking tasks. It emphasizes core Java programming concepts such as object-oriented design, exception handling, and file operations, providing a hands-on learning experience for students or developers working on Java applications.
+
+### Features:
+
+- **User Authentication**: Secure login using a predefined PIN.
+- **Balance Inquiry**: Displays the current account balance.
+- **Cash Withdrawal**: Enables withdrawal of funds with appropriate checks.
+- **Deposit Funds**: Allows users to deposit money into their account.
+- **Transaction History**: Provides a view of past transactions for review.
+
+### Technology Used:
+
+- **Programming Language**: Java
+- **Development Kit**: Java Development Kit (JDK) 8 or higher
+- **Development Environment**: Text editors or IDEs like IntelliJ IDEA, Eclipse, or VS Code
+- **Version Control**: Git for cloning and managing the project
+
 ## Getting Started
 
 To get started with any of the projects in this repository:
