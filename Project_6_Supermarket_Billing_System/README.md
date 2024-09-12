@@ -1,7 +1,7 @@
 # Supermarket Billing System
 
 ## Project Overview
-The **Supermarket Billing System** is a console-based Java application designed to manage supermarket billing operations. This application allows users to add items to a cart, view the cart, and generate a bill. It's a simple yet powerful tool for understanding basic Java concepts and applying them in a real-world scenario.
+The **Supermarket Billing System** is a console-based Java application designed to manage supermarket billing operations. This application allows users to add items to a cart, view the cart, and generate a bill. It's a simple yet powerful tool for understanding and applying basic Java concepts in a real-world scenario. 
 
 ## Features
 - **Add Item**: Add items to the cart by specifying the name, price, and quantity.
@@ -40,7 +40,7 @@ The **Supermarket Billing System** is a console-based Java application designed 
 Once the application is running, you will be presented with a menu offering the following options:
 
 1. **Add Item**: Enter the item's name, price, and quantity to add it to your cart.
-2. **View Cart**: Displays the items currently in your cart along with their price, quantity, and total cost.
+2. **View Cart**: Displays the items in your cart, their price, quantity, and total cost. 
 3. **Generate Bill**: Displays a detailed bill with the total cost of all items and clears the cart for the next customer.
 4. **Exit**: Closes the application.
 
@@ -59,7 +59,7 @@ Item added to cart.
 ```
 
 ## Code Structure
-- **Item Class**: Represents an individual item with its name, price, and quantity. It also calculates the total price for the item.
+- **Item Class**: Represents an individual item with its name, price, and quantity. It also calculates the total cost for the item. 
 - **SupermarketBillingSystem Class**: The main class containing the menu-driven interface. It manages the cart, displays the cart contents, generates the bill, and handles user input.
 
 ## Future Enhancements
