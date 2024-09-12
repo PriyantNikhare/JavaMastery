@@ -119,6 +119,26 @@ The **Fee Report System** is a console-based Java application designed to manage
 - **Version Control**: Git for project management and version control
 - **Export Formats**: PDF and Excel for report generation
 
+### Project 6: Supermarket Billing System
+
+### Project Introduction:
+
+The **Supermarket Billing System** is a console-based Java application developed to manage supermarket billing operations. This application allows users to add items to a cart, view the cart, and generate a bill, providing a hands-on approach to learning Java programming. It demonstrates key Java concepts such as object-oriented programming, user input handling, and basic data processing.
+
+### Features:
+
+- **Add Item**: Add products to the cart by specifying the item's name, price, and quantity.
+- **View Cart**: Display all items in the cart along with their individual and total cost.
+- **Generate Bill**: Calculate the total cost of all items in the cart, display a detailed bill, and clear the cart for the next transaction.
+- **Exit**: Close the application.
+
+### Technology Used:
+
+- **Programming Language**: Java
+- **Development Kit**: Java Development Kit (JDK) 8 or higher
+- **Development Environment**: IDEs such as IntelliJ IDEA, Eclipse, or a text editor
+- **Version Control**: Git for project management and version control
+
 ## Getting Started
 
 To get started with any of the projects in this repository:
