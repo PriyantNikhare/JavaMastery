@@ -36,7 +36,7 @@ This project is part of the `PriyantNikhare` under the `JavaMastery` folder and 
    ```bash
    git clone https://github.com/PriyantNikhare/JavaMastery.git
    ```
-2. Navigate to the `30_days_of_java` folder:
+2. Navigate to the `JavaMastery` folder:
    ```bash
    cd JavaMastery/Text_Based_Adventure_Game
    ```
