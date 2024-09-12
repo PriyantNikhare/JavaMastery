@@ -53,7 +53,7 @@ JavaMastery/
 
 2. **Navigate to the project directory:**
    ```sh
-   cd JavaMastery/ProjectName
+   cd JavaMastery/Fee Report System
    ```
 
 3. **Compile the Java files:**
