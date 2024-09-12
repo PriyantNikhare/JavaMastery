@@ -139,6 +139,26 @@ The **Supermarket Billing System** is a console-based Java application developed
 - **Development Environment**: IDEs such as IntelliJ IDEA, Eclipse, or a text editor
 - **Version Control**: Git for project management and version control
 
+### Project 7: Text-Based Adventure Game
+
+### Project Introduction:
+
+The **Text-Based Adventure Game** is a Java-based command-line game where players engage in an interactive adventure by making choices that shape the story’s progression. Players explore different scenarios, making decisions that lead to multiple paths and outcomes. This game serves as an excellent project for practicing Java programming skills such as user input handling, control flow, and basic game design.
+
+### Features:
+
+- **Interactive Storytelling**: Players navigate a branching narrative, where each choice influences the direction of the story.
+- **User Input Handling**: The game is entirely driven by text commands, making it simple yet immersive.
+- **Dynamic Outcomes**: Multiple endings and paths provide replayability, as the game changes based on player choices.
+- **Command-Line Interface**: The game runs in a text-based interface, focusing on story-driven engagement without graphics.
+
+### Technology Used:
+
+- **Programming Language**: Java
+- **Development Kit**: Java Development Kit (JDK) 8 or higher
+- **Development Environment**: Text editors or IDEs like IntelliJ IDEA, Eclipse, or VS Code
+- **Version Control**: Git for managing the project
+
 ## Getting Started
 
 To get started with any of the projects in this repository:
