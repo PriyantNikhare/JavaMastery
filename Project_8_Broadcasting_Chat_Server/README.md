@@ -38,7 +38,7 @@ The client application connects to the server and allows users to send messages 
 2. **Navigate to the Project Directory**
 
    ```bash
-   cd JavaMastery/Broadcasting_Chat_Server
+   cd JavaMastery/Project_8_Broadcasting_Chat_Server
    ```
 
 3. **Create Java Files**
