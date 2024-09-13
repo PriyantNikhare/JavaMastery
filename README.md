@@ -159,6 +159,28 @@ The **Text-Based Adventure Game** is a Java-based command-line game where player
 - **Development Environment**: Text editors or IDEs like IntelliJ IDEA, Eclipse, or VS Code
 - **Version Control**: Git for managing the project
 
+### Project 8: Broadcasting Chat Server
+
+### Project Introduction:
+
+The **Broadcasting Chat Server** is a Java-based application that enables real-time communication between multiple clients through a server. This server broadcasts messages from any client to all other connected clients, demonstrating the use of multi-threading and Java networking. It is a simple, console-based tool ideal for understanding client-server communication, socket programming, and multi-threading in Java.
+
+### Features:
+
+- **Multi-Client Support**: Allows multiple clients to connect and communicate simultaneously using multi-threading.
+- **Real-Time Broadcasting**: Messages are instantly broadcast to all connected clients in real-time.
+- **Robust Error Handling**: The server includes error handling mechanisms to manage unexpected issues and maintain stability.
+- **Console-Based Interface**: Both server and client applications use a simple, easy-to-use command-line interface.
+
+### Technology Used:
+
+- **Programming Language**: Java
+- **Development Kit**: Java Development Kit (JDK) 8 or higher
+- **Networking**: Java socket programming for client-server communication
+- **Multi-threading**: Threads are used to handle multiple client connections
+- **Development Environment**: IDEs like IntelliJ IDEA, Eclipse, or a text editor
+- **Version Control**: Git for managing the project
+
 ## Getting Started
 
 To get started with any of the projects in this repository:
