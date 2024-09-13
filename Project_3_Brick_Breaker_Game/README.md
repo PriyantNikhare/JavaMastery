@@ -47,7 +47,7 @@ BrickBreakerGame
     ```
 2. Navigate to the project directory:
     ```bash
-    cd JavaMastery/BrickBreakerGame
+    cd PriyantNikhare/JavaMastery
     ```
 3. Open the project in your preferred IDE.
 
