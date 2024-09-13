@@ -30,7 +30,7 @@ The ATM Simulation System is a console-based Java application that simulates the
 2. **Navigate to the Project Directory:**
 
    ```bash
-   cd JavaMastery/ProjectName
+   cd JavaMastery/Project_4_ATM_Simulation_System
    ```
 
 3. **Compile the Code:**
